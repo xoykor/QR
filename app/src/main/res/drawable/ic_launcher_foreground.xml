@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Top-left finder -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,30h18v18h-18z M34,34v10h10v-10z"
+        android:fillType="evenOdd" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M37,37h4v4h-4z" />
+    <!-- Top-right finder -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M60,30h18v18h-18z M64,34v10h10v-10z"
+        android:fillType="evenOdd" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M67,37h4v4h-4z" />
+    <!-- Bottom-left finder -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,60h18v18h-18z M34,64v10h10v-10z"
+        android:fillType="evenOdd" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M37,67h4v4h-4z" />
+    <!-- Data modules -->
+    <path
+        android:fillColor="#5EEAD4"
+        android:pathData="M52,30h4v4h-4z M52,38h4v8h-4z M30,52h8v4h-8z M42,52h10v4h-10z M56,52h8v4h-8z M68,52h10v4h-10z M52,60h4v8h-4z M60,60h8v4h-8z M72,60h6v6h-6z M60,68h4v10h-4z M68,70h10v8h-10z M52,72h4v6h-4z" />
+</vector>
